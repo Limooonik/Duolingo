@@ -1,4 +1,12 @@
-# Native Widget Animation for iOS
+# Duolingo Widget Animation for iOS
+
+
+
+
+https://github.com/user-attachments/assets/a8dbeb73-f6c4-4354-bfaf-68389f3442a9
+
+
+
 
 A production-ready implementation of continuous, smooth native animations inside iOS Widgets built purely with **SwiftUI** and **WidgetKit**. 
 
