@@ -21,21 +21,9 @@ No workarounds, no looping GIFs, and no heavy video hacks — 100% native second
 
 ---
 
-### 📦 Project Structure
-* `BirdEngine.xcframework` — Core binary framework handling high-performance rendering.
-* `WidgetTest/` — Main iOS application container.
-* `WidgetTestExtension/` — Widget extension target.
-
----
-
 ### 📱 Live in App Store
 Check out the fully working implementation in the App Store:
 👉 [Download on the App Store](https://apps.apple.com/us/app/clock-widgets-homescreen/id6755961385)
-
----
-
-### 📄 License
-Distributed under the MIT License. See `LICENSE` for more information.
 
 nicklimoapps@gmail.com
 
